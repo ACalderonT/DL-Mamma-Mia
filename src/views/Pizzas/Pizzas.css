@@ -1,0 +1,23 @@
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%;
+    padding: 30px 60px;
+    gap: 20px;
+}
+
+.list-img {
+    list-style: none;
+}
+
+.list-img li {
+    padding-left: 20px;
+    background-image: url("src/assets/img/pizza-li.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 16px;
+}
+
+.btn-icon {
+    font-size: 12px;
+}

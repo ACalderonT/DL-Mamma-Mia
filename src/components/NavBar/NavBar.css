@@ -1,0 +1,46 @@
+.pizza-logo {
+    max-width: 2em;
+    max-height: 2em;
+}
+
+.brand-name {
+    font-size: 2em;
+}
+
+.cart {
+    font-size: 1.5em;
+}
+
+.total {
+    font-size: 1em;
+}
+
+.img-bg {
+    height: 250px;
+    max-width: 100%;
+    background-image: url("src/assets/img/pizza-nav-bg.jpg");
+    background-size: cover;
+}
+
+.slogan {
+    height: 250px;
+    max-width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.br {
+    width: 80%;
+    border-bottom: 1px solid #F8F9FA;
+}
+
+a {
+    text-decoration: none;
+}
+
+.active {
+    color: #ffc107;
+}
+
+.inactive {
+    color: #F8F9FA;
+}
